@@ -1,1 +1,1 @@
-# CANBUS
+# Serial Communication Protocol Application (CANBUS)
